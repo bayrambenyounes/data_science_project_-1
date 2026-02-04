@@ -10,7 +10,7 @@ df.head()
 
 
 
-df.shape
+df.shap
 
 df.info()
 
